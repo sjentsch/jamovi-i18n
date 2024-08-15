@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-31 09:09+0000\n"
+"PO-Revision-Date: 2024-08-15 17:37+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/he/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 5.7-dev\n"
+"X-Generator: Weblate 5.7\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -618,8 +618,8 @@ msgid ""
 "of these arguments are optional -- it is possible to simply use "
 "<strong>CONTAINS(needle, haystack)</strong>."
 msgstr ""
-"בודקת אם מי מהפריטים מופיע בתוך ‎‏in1, in2, in3 ... יש לשים לב שרוב "
-"הארגומנטים הם אופציונליים – ניתן להשתמש בפשטות כך: <strong>CONTAINS(needle, "
+"בודקת אם מי מהפריטים מופיע בתוך ‎‏in1, in2, in3 ... יש לשים לב שרוב הארגומנטים "
+"הם אופציונליים – ניתן להשתמש בפשטות כך: <strong>CONTAINS(needle, "
 "haystack)</strong>."
 
 #: jamovi/client/main/ribbon/appmenu.js:181
@@ -1458,6 +1458,8 @@ msgid "Output Variable"
 msgid_plural "Multiple Output Variables ({n})"
 msgstr[0] ""
 msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #: jamovi/client/main/ribbon/appmenu.js:83
 msgid "p-value format"

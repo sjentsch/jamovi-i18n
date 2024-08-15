@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-31 09:09+0000\n"
+"PO-Revision-Date: 2024-08-15 17:36+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/tr/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7-dev\n"
+"X-Generator: Weblate 5.7\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -79,7 +79,8 @@ msgstr "Aksan"
 msgid ""
 "Access is denied. You may not have the appropriate permissions to access "
 "this resource."
-msgstr "Erişim reddedildi. Bu kaynağa erişim için yeterli yetkileriniz olmayabilir."
+msgstr ""
+"Erişim reddedildi. Bu kaynağa erişim için yeterli yetkileriniz olmayabilir."
 
 #: jamovi/client/main/vareditor/filterwidget.js:380
 #: jamovi/client/main/vareditor/filterwidget.js:498
@@ -846,7 +847,8 @@ msgstr "Filtre ifadesini kullanarak bir değişkeni filtreler."
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference columns using 'V' or column functions"
-msgstr "Filtreler, 'V' veya sütun işlevlerini kullanan sütunlarla ilişkilendirilemez"
+msgstr ""
+"Filtreler, 'V' veya sütun işlevlerini kullanan sütunlarla ilişkilendirilemez"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference output variables"
@@ -2030,7 +2032,8 @@ msgstr "Bu analiz mevcut zaman limitini aştı ve sonlandırıldı."
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has terminated, likely due to hitting a resource limit."
-msgstr "Bu analiz, muhtemelen bir kaynak sınırına ulaşılması nedeniyle sonlandırıldı."
+msgstr ""
+"Bu analiz, muhtemelen bir kaynak sınırına ulaşılması nedeniyle sonlandırıldı."
 
 #: jamovi/server/jamovi/server/server.py
 msgid "This data set is no longer available"

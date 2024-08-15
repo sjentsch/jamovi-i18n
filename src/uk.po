@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-31 09:09+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"PO-Revision-Date: 2024-08-15 17:36+0000\n"
+"Last-Translator: Dan <jonweblin2205@protonmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/uk/>\n"
 "Language: uk\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.7-dev\n"
+"X-Generator: Weblate 5.7\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -1006,7 +1006,8 @@ msgstr "якщо"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:116
 msgid "If the expression resolves true, use the value, otherwise the else."
-msgstr "Якщо вираження разрешается як true, використайте значення, інакше другое."
+msgstr ""
+"Якщо вираження разрешается як true, використайте значення, інакше другое."
 
 #: jamovi/client/resultsview/image.js:54
 msgid "Image"
@@ -1397,7 +1398,8 @@ msgid ""
 "                    source."
 msgstr ""
 "Один або кілька аналізів у цімнабір даних отключены.\n"
-"                    тому що вони дозволяють виконувати произвольный код. Вам\n"
+"                    тому що вони дозволяють виконувати произвольный код. "
+"Вам\n"
 "                    наслідує включати їхній тільки у томунагода, якщо ви "
 "довіряєте джерелу цього набору даних."
 
@@ -2035,7 +2037,8 @@ msgstr "Цей аналіз вийшов за межі поточних часо
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has terminated, likely due to hitting a resource limit."
-msgstr "Цей аналіз було припинено, ймовірно, у зв'язку з досягненням ліміту ресурсів."
+msgstr ""
+"Цей аналіз було припинено, ймовірно, у зв'язку з досягненням ліміту ресурсів."
 
 #: jamovi/server/jamovi/server/server.py
 msgid "This data set is no longer available"

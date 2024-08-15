@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-31 09:09+0000\n"
+"PO-Revision-Date: 2024-08-15 17:37+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/id/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.7-dev\n"
+"X-Generator: Weblate 5.7\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -158,7 +158,8 @@ msgstr "Analisa"
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "Analyses which execute arbitrary code are not permitted in this session."
-msgstr "Analisis yang mengeksekusi kode arbitrer tidak diizinkan dalam sesi ini."
+msgstr ""
+"Analisis yang mengeksekusi kode arbitrer tidak diizinkan dalam sesi ini."
 
 #: jamovi/client/resultsview/main.js:113
 msgid "Analysis"
@@ -1706,8 +1707,8 @@ msgstr "Kembali adalah jumlah dari sekelompok angka."
 #: jamovi/client/main/vareditor/formulatoolbar.js:112
 msgid "Returns the variance of a set of numbers."
 msgstr ""
-"Variansi adalah ukuran seberapa jauh sekelompok angka dari nilai "
-"rata-ratanya."
+"Variansi adalah ukuran seberapa jauh sekelompok angka dari nilai rata-"
+"ratanya."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:114
 msgid "Returns the variance of a variable."
@@ -2118,7 +2119,6 @@ msgstr ""
 msgid "Transformed Variable"
 msgid_plural "Multiple Transformed Variables ({n})"
 msgstr[0] ""
-msgstr[1] ""
 
 #: jamovi/client/main/utils/headeralert.js:24
 msgid "Try again"
